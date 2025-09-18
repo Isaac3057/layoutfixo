@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+  .a{
+    display: flex;
+    position: absolute;
+    width: 100% ;
+    height: 100%; 
+    background-color: brown;
+  }
+  .b{
+    width: 100%;
+    height:20%;
+    background-color: blue;
+  }
